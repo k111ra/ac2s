@@ -29,10 +29,13 @@ Route::get('/contact', function () {
 // })-> where('n','[1-3]');
 Route::get('/blogdetail/{id}', 'BlogDetail@showBlogdetail');
 
-Route::get('/page', function () {
+Route::get('/page/{slug}', 'PageController@showPage');
 
 
-    return view('page');
+Route::get('/expertise', function () {
+
+
+    return view('expertise');
 
 });
 Route::get('/prestation', function () {
@@ -44,6 +47,17 @@ Route::get('/blog2', function () {
 
     return view('blog2');
 });
+
+Route::get('/prestation/pricing', function () {
+
+    return view('prestation.pricing');
+});
+
+Route::get('/expertise/pricing', function () {
+
+    return view('expertise.pricing');
+});
+
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
 });

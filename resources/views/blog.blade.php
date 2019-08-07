@@ -1,7 +1,7 @@
 @extends('layouts.layout')
 
 @section('title')
-blog
+.:: Blog ::.
 @endsection
 
     @section('content')
@@ -143,4 +143,4 @@ blog
         </div>
     </section>
     <!--/#blog-->
-    @endsection
+@endsection

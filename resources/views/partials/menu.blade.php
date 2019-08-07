@@ -34,11 +34,11 @@
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="active"><a href="/">AC2S, qui somme nous</a></li>
-                    <li class="dropdown"><a href="/page">EXPERTISE <i class="fa fa-angle-down"></i></a>
+                    <li class="dropdown"><a href="/expertise">EXPERTISE <i class="fa fa-angle-down"></i></a>
                         <ul role="menu" class="sub-menu">
-                            <li><a href="#">Conception et réalisation de sites web & Logiciel </a></li>
+                            <li><a href="/page/conception-et-realisation-de-sites-web-and-logiciel">Conception et réalisation de sites web & Logiciel </a></li>
                             <li><a href="#">Développement d’applications mobiles </a></li>
-                            <li><a href="#">Nom de domaine & Hébergement</a></li>
+                            <li><a href="/expertise/pricing">Nom de domaine & Hébergement</a></li>
                             <li><a href="#">Référencement organique</a></li>
                             <li><a href="#">Sauvegarde de données</a></li>
                             <li><a href="#">BI/ Outils de reporting</a></li>
@@ -55,7 +55,7 @@
                             <li><a href="#">Logo et identité visuelle</a></li>
                             <li><a href="#">Gestion des réseaux sociaux</a></li>
                             <li><a href="#">Impression : flyers, cartes de visite, support com...</a></li>
-                            <li><a href="#">Campagnes marketing (e-mailing, SMS…)</a></li>
+                            <li><a href="/prestation/pricing">Campagnes marketing (e-mailing, SMS…)</a></li>
                             <li><a href="#">Formation</a></li>
 
                         </ul>
