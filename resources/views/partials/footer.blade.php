@@ -54,7 +54,7 @@
                 </div>
                 <div class="col-sm-12">
                     <div class="copyright-text text-center">
-                        <p>&copy; Your Company 2014. All Rights Reserved.</p>
+                        <p>&copy; AC2S 2019. All Rights Reserved.</p>
                         <p>Designed by <a target="_blank" href="#"><p style="font-family:Verdana, Geneva, Tahoma, sans-serif; font-size: 50px; " > <b style="color: yellow"> A</b>C<font color="skyblue">2</font>S </p></a> </p>
                     </div>
                 </div>

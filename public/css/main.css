@@ -388,11 +388,10 @@ ul.sub-menu {
 
 #footer {
   padding-bottom: 10px;
-  background-image: url(../images/home/footer.png);
+  background-image: url(../images/home/arun.jpg);
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: contain;
-  background-color: black;
 }
 
 #footer h1{
@@ -471,6 +470,7 @@ ul.sub-menu {
 
 .contact-info.bottom {
   padding-left: 25px;
+  background-color: black;
 }
 
 .bottom > address {

@@ -37,7 +37,7 @@
                     <li class="dropdown"><a href="/expertise">EXPERTISE <i class="fa fa-angle-down"></i></a>
                         <ul role="menu" class="sub-menu">
                             <li><a href="/page/conception-et-realisation-de-sites-web-and-logiciel">Conception et réalisation de sites web & Logiciel </a></li>
-                            <li><a href="#">Développement d’applications mobiles </a></li>
+                            <li><a href="/page/developpement-d-applications-mobiles">Développement d’applications mobiles </a></li>
                             <li><a href="/expertise/pricing">Nom de domaine & Hébergement</a></li>
                             <li><a href="#">Référencement organique</a></li>
                             <li><a href="#">Sauvegarde de données</a></li>
@@ -61,7 +61,11 @@
                         </ul>
                     </li>
                     <li class="dropdown"><a href="/blog">Blog <i class="fa fa-angle-down"></i></a>
+                        <ul role="menu" class="sub-menu">
 
+                            <li><a href="/blog2">Logo et identité visuelle</a></li>
+
+</ul>
                     </li>
                     <li><a href="/contact">Contactez Nous</a></li>
                 </ul>

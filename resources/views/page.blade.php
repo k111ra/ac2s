@@ -12,7 +12,7 @@
                 <div class="action">
                     <div class="col-sm-12">
                         <h1 class="title"><?php echo $page->title  ?></h1>
-                        <p>Be Creative</p>
+                        <p></p>
                     </div>
                 </div>
             </div>
@@ -25,7 +25,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <img src="/images/portfolio-details/1.jpg" class="img-responsive" alt="">
+                <img src="\storage\<?php echo $page->image  ?>" class="img-responsive" alt="">
             </div>
             <div class="col-sm-6">
                 <div class="project-name overflow">

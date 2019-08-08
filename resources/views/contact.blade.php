@@ -43,4 +43,6 @@ Contact
             </div>
         </div>
     </section> <!--/#map-section-->
+    <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=true"></script>
+
 @endsection
