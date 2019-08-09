@@ -58,9 +58,32 @@ Route::get('/expertise/pricing', function () {
     return view('expertise.pricing');
 });
 
+Route::get('/produits/all', function () {
+
+    return view('produits.all');
+});
+
+Route::get('/produits/hosting', function () {
+
+    return view('produits.hosting');
+});
+
+Route::get('/produits/mails', function () {
+
+    return view('produits.mails');
+});
+
+Route::get('/produits/sms', function () {
+
+    return view('produits.sms');
+});
+
+
+
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
 });
+
 
 
 

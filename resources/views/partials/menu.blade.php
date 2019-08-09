@@ -25,7 +25,7 @@
                     <span class="icon-bar"></span>
                 </button>
 
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="/">
                     <h1><p style="font-family:Verdana, Geneva, Tahoma, sans-serif; font-size: 50px; " > <img src="/images/logo2.png " width="75px" height="100px" alt=""/>C<font color="skyblue">2</font>S</p></h1>
                     {{-- <img src="/images/logo-ac2s.png" width="100px" height="100px" alt=""> --}}
                 </a>
@@ -34,17 +34,17 @@
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="active"><a href="/">AC2S, qui somme nous</a></li>
-                    <li class="dropdown"><a href="/expertise">EXPERTISE <i class="fa fa-angle-down"></i></a>
+                    <li class="dropdown"><a href="#">EXPERTISE <i class="fa fa-angle-down"></i></a>
                         <ul role="menu" class="sub-menu">
                             <li><a href="/page/conception-et-realisation-de-sites-web-and-logiciel">Conception et réalisation de sites web & Logiciel </a></li>
                             <li><a href="/page/developpement-d-applications-mobiles">Développement d’applications mobiles </a></li>
                             <li><a href="/expertise/pricing">Nom de domaine & Hébergement</a></li>
-                            <li><a href="#">Référencement organique</a></li>
-                            <li><a href="#">Sauvegarde de données</a></li>
-                            <li><a href="#">BI/ Outils de reporting</a></li>
-                            <li><a href="#">Veille, Analyse, E réputation, Influence</a></li>
-                            <li><a href="#">Stratégie digitale</a></li>
-                            <li><a href="#">Audit, sécurité IT & conseils</a></li>
+                            <li><a href="/page/referencement-organique">Référencement organique</a></li>
+                            <li><a href="/page/sauvegarde-de-donnees">Sauvegarde de données</a></li>
+                            <li><a href="/page/bi-outils-de-reporting">BI/ Outils de reporting</a></li>
+                            <li><a href="/page/veille-analyse-e-reputation-influence">Veille, Analyse, E réputation, Influence</a></li>
+                            <li><a href="/page/strategie-digitale">Stratégie digitale</a></li>
+                            <li><a href="/page/audit-securite-it-and-conseils">Audit, sécurité IT & conseils</a></li>
 
                         </ul>
                     </li>
@@ -60,10 +60,13 @@
 
                         </ul>
                     </li>
-                    <li class="dropdown"><a href="/blog">Blog <i class="fa fa-angle-down"></i></a>
+                    <li class="dropdown"><a href="#">Produits <i class="fa fa-angle-down"></i></a>
                         <ul role="menu" class="sub-menu">
 
-                            <li><a href="/blog2">Logo et identité visuelle</a></li>
+                            <li><a href="/produits/hosting">AC2S Hosting</a></li>
+                            <li><a href="/produits/mails">AC2S Mails</a></li>
+                            <li><a href="/produits/sms">AC2S SMS</a></li>
+                            <li><a href="/produits/all">AC2S All in One</a></li>
 
 </ul>
                     </li>
