@@ -19,42 +19,42 @@
                     <div class="contact-info bottom">
                         <h2 style="color:aliceblue;">Contacts</h2>
                         <address style="color:aliceblue;">
-                        E-mail: <a href="mailto:someone@example.com">email@email.com</a> <br>
+                        E-mail: <a href="mailto:someone@example.com">contact@ac2s.digital</a> <br>
                         Phone: +1 (123) 456 7890 <br>
                         Fax: +1 (123) 456 7891 <br>
                         </address>
 
-                        <h2 style="color:aliceblue;">Address</h2>
+                        <h2 style="color:aliceblue;">Adresse</h2>
                         <address style="color:aliceblue">
-                        Unit C2, St.Vincent's Trading Est., <br>
-                        Feeder Road, <br>
-                        Bristol, BS2 0UY <br>
-                        United Kingdom <br>
+                        Angré, Terminus 81 82 <br>
+                        Cocody, <br>
+                        Abidjan <br>
+                        Côte d'ivoire <br>
                         </address>
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-12">
                     <div class="contact-form bottom">
-                        <h2>Send a message</h2>
+                        <h2 style="color:aliceblue;">laisser un message</h2>
                         <form id="main-contact-form" name="contact-form" method="post" action="sendemail.php">
                             <div class="form-group">
-                                <input type="text" name="name" class="form-control" required="required" placeholder="Name">
+                                <input type="text" name="name" class="form-control" required="required" placeholder="Nom & Prenom">
                             </div>
                             <div class="form-group">
-                                <input type="email" name="email" class="form-control" required="required" placeholder="Email Id">
+                                <input type="email" name="email" class="form-control" required="required" placeholder="Email">
                             </div>
                             <div class="form-group">
-                                <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Your text here"></textarea>
+                                <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Taper votre text ici"></textarea>
                             </div>
                             <div class="form-group">
-                                <input type="submit" name="submit" class="btn btn-submit" value="Submit">
+                                <input type="submit" name="submit" class="btn btn-submit" value="Envoyer">
                             </div>
                         </form>
                     </div>
                 </div>
                 <div class="col-sm-12">
                     <div class="copyright-text text-center">
-                        <p>&copy; AC2S 2019. All Rights Reserved.</p>
+                        <p>&copy; AC2S 2019. All Rights Reserved. Tous droits reserver.</p>
                         <p>Designed by <a target="_blank" href="#"><p style="font-family:Verdana, Geneva, Tahoma, sans-serif; font-size: 50px; " > <b style="color: yellow"> A</b>C<font color="skyblue">2</font>S </p></a> </p>
                     </div>
                 </div>

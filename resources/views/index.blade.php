@@ -116,7 +116,7 @@ Home
             <div class="row">
                 <div class="single-features">
                     <div class="col-sm-5 wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">
-                        <img src="images/home/image1.png" class="img-responsive" alt="">
+                        <img src="images/home/imac-.png" class="img-responsive" alt="">
                     </div>
                     <div class="col-sm-6 wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
                         <h2>Web Design Tendance</h2>
@@ -125,18 +125,20 @@ Home
                 </div>
                 <div class="single-features">
                     <div class="col-sm-6 col-sm-offset-1 align-right wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">
+                        <br> <br>
                         <h2>Audit, sécurité IT & conseils</h2>
                         <P>Nous avons développé pour vous est une démarche méthodique qui permet d’évaluer à une période donnée les risques potentiels auxquels votre système informatique et d’échange de données est exposé. En conséquence, nous proposons des solutions de protections fiables de protection. </P>
                     </div>
                     <div class="col-sm-5 wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
-                        <img src="images/home/image2.png" class="img-responsive" alt="">
+                        <img src="images/home/cyber-security-.png" class="img-responsive" alt="">
                     </div>
                 </div>
                 <div class="single-features">
                     <div class="col-sm-5 wow fadeInLeft" data-wow-duration="500ms" data-wow-delay="300ms">
-                        <img src="images/home/image3.png" class="img-responsive" alt="">
+                        <img src="images/home/desk-.png" class="img-responsive" alt="">
                     </div>
                     <div class="col-sm-6 wow fadeInRight" data-wow-duration="500ms" data-wow-delay="300ms">
+                        <br> <br>
                         <h2>Stratégie digitale</h2>
                         <P>AC2S se tient à votre disposition pour vous accompagner dans votre transformation digitale en vue d’améliorer votre efficacité opérationnelle. L’enjeu est de mettre au centre des pratiques la digitalisation des services et tâches à accomplir aussi bien en interne qu’à l’externe entre vos clients, partenaires et vous.</P>
                     </div>
@@ -157,22 +159,22 @@ Home
                     </div>
                     <div class="clients-logo wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client1.png" class="img-responsive" alt=""></a>
+                            <a href="#"><img src="images/home/coffee-.png" class="img-responsive" alt=""></a>
                         </div>
                         <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client2.png" class="img-responsive" alt=""></a>
+                            <a href="#"><img src="images/home/hummingbird-.png" class="img-responsive" alt=""></a>
                         </div>
                          <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client3.png" class="img-responsive" alt=""></a>
+                            <a href="#"><img src="images/home/animal.png" class="img-responsive" alt=""></a>
                         </div>
                          <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client4.png" class="img-responsive" alt=""></a>
+                            <a href="#"><img src="images/home/logo-google.png" class="img-responsive" alt=""></a>
                         </div>
                          <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client5.png" class="img-responsive" alt=""></a>
+                            <a href="#"><img src="images/home/shield.png" class="img-responsive" alt=""></a>
                         </div>
                          <div class="col-xs-3 col-sm-2">
-                            <a href="#"><img src="images/home/client6.png" class="img-responsive" alt=""></a>
+                            <a href="#"><img src="images/home/red.png" class="img-responsive" alt=""></a>
                         </div>
                     </div>
                 </div>

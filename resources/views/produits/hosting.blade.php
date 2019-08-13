@@ -1,5 +1,7 @@
+@extends('layouts.layout')
+
 @section('title')
-.:: Produits || hosting ::.
+.:: Prestation || hosting ::.
 
 @endsection
 
